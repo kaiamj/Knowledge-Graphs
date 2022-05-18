@@ -1,0 +1,4 @@
+@prefix ns1: <http://example.org/people/> .
+
+ns1:Person ns1:lives ns1:Country .
+

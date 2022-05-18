@@ -1,0 +1,28 @@
+@prefix RDF: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns1: <http://example.org/people/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:Country a rdfs:Class .
+
+ns1:Person a rdfs:Class .
+
+ns1:PersonJake a ns1:Person ;
+    ns1:lives ns1:CountryUnited_States_of_America .
+
+ns1:PersonJenny a ns1:Person ;
+    ns1:lives ns1:CountryThe_Netherlands .
+
+ns1:PersonJill a ns1:Person ;
+    ns1:lives ns1:CountryUnited_States_of_America .
+
+ns1:PersonJohn a ns1:Person ;
+    ns1:lives ns1:CountryThe_Netherlands .
+
+ns1:lives a RDF:Property ;
+    rdfs:domain ns1:Person ;
+    rdfs:range ns1:Country .
+
+ns1:CountryThe_Netherlands a ns1:Country .
+
+ns1:CountryUnited_States_of_America a ns1:Country .
+
