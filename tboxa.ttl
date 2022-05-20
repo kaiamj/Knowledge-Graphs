@@ -1,0 +1,37 @@
+@prefix RDF: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://example.org/people/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:Country a rdfs:Class .
+
+ns1:Person a rdfs:Class ;
+    ns1:lives ns1:Country .
+
+ns1:PersonJake a ns1:Person ;
+    ns1:lives ns1:CountryUnited_States_of_America ;
+    foaf:name "Jake"^^xsd:string .
+
+ns1:PersonJenny a ns1:Person ;
+    ns1:lives ns1:CountryThe_Netherlands ;
+    foaf:name "Jenny"^^xsd:string .
+
+ns1:PersonJill a ns1:Person ;
+    ns1:lives ns1:CountryUnited_States_of_America ;
+    foaf:name "Jill"^^xsd:string .
+
+ns1:PersonJohn a ns1:Person ;
+    ns1:lives ns1:CountryThe_Netherlands ;
+    foaf:name "John"^^xsd:string .
+
+ns1:lives a RDF:Property ;
+    rdfs:domain ns1:Person ;
+    rdfs:range ns1:Country .
+
+ns1:CountryThe_Netherlands a ns1:Country ;
+    foaf:name "The Netherlands"^^xsd:string .
+
+ns1:CountryUnited_States_of_America a ns1:Country ;
+    foaf:name "United States of America"^^xsd:string .
+

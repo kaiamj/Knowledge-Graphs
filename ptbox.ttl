@@ -1,0 +1,75 @@
+@prefix ns1: <http://exampleDb.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:Paper a rdfs:Class ;
+    ns1:acceptedfor ns1:Publication ;
+    ns1:relatedto ns1:area ;
+    ns1:submittedIn ns1:venue .
+
+ns1:Person a rdfs:Class .
+
+ns1:Publication a rdfs:Class .
+
+ns1:area a rdfs:Class .
+
+ns1:review a rdfs:Class .
+
+ns1:venue a rdfs:Class .
+
+ns1:acceptedfor a rdf:Property ;
+    rdfs:domain ns1:Paper ;
+    rdfs:range ns1:Publication .
+
+ns1:chair rdfs:subClassOf ns1:Person .
+
+ns1:db rdfs:subClassOf ns1:area .
+
+ns1:demoPaper rdfs:subClassOf ns1:Paper .
+
+ns1:editor rdfs:subClassOf ns1:Person .
+
+ns1:expertGroups rdfs:subClassOf ns1:conference .
+
+ns1:fullPaper rdfs:subClassOf ns1:Paper .
+
+ns1:journal rdfs:subClassOf ns1:venue .
+
+ns1:ml rdfs:subClassOf ns1:area .
+
+ns1:nlp rdfs:subClassOf ns1:area .
+
+ns1:poster rdfs:subClassOf ns1:Paper .
+
+ns1:regularConferences rdfs:subClassOf ns1:conference .
+
+ns1:relatedto a rdf:Property ;
+    rdfs:domain ns1:Paper ;
+    rdfs:range ns1:area .
+
+ns1:shortPaper rdfs:subClassOf ns1:Paper .
+
+ns1:submitted a rdf:Property ;
+    rdfs:domain ns1:reviewer ;
+    rdfs:range ns1:review .
+
+ns1:submittedIn a rdf:Property ;
+    rdfs:domain ns1:Paper ;
+    rdfs:range ns1:venue .
+
+ns1:symposiums rdfs:subClassOf ns1:conference .
+
+ns1:workshops rdfs:subClassOf ns1:conference .
+
+ns1:wrote a rdf:Property ;
+    rdfs:domain ns1:author ;
+    rdfs:range ns1:Paper .
+
+ns1:author ns1:wrote ns1:Paper ;
+    rdfs:subClassOf ns1:Person .
+
+ns1:reviewer ns1:submitted ns1:review ;
+    rdfs:subClassOf ns1:Person .
+
+ns1:conference rdfs:subClassOf ns1:venue .
+
