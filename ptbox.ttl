@@ -13,7 +13,8 @@ ns1:Publication a rdfs:Class .
 
 ns1:area a rdfs:Class .
 
-ns1:review a rdfs:Class .
+ns1:review a rdfs:Class ;
+    ns1:reviewAbout ns1:Paper .
 
 ns1:venue a rdfs:Class .
 
@@ -21,9 +22,18 @@ ns1:acceptedfor a rdf:Property ;
     rdfs:domain ns1:Paper ;
     rdfs:range ns1:Publication .
 
+ns1:areaName a rdf:Property ;
+    rdfs:domain ns1:area .
+
 ns1:chair rdfs:subClassOf ns1:Person .
 
+ns1:comments a rdf:Property ;
+    rdfs:domain ns1:review .
+
 ns1:db rdfs:subClassOf ns1:area .
+
+ns1:decision a rdf:Property ;
+    rdfs:domain ns1:review .
 
 ns1:demoPaper rdfs:subClassOf ns1:Paper .
 
@@ -39,13 +49,26 @@ ns1:ml rdfs:subClassOf ns1:area .
 
 ns1:nlp rdfs:subClassOf ns1:area .
 
+ns1:paperName a rdf:Property ;
+    rdfs:domain ns1:Paper .
+
+ns1:personName a rdf:Property ;
+    rdfs:domain ns1:Person .
+
 ns1:poster rdfs:subClassOf ns1:Paper .
+
+ns1:publicationName a rdf:Property ;
+    rdfs:domain ns1:Publication .
 
 ns1:regularConferences rdfs:subClassOf ns1:conference .
 
 ns1:relatedto a rdf:Property ;
     rdfs:domain ns1:Paper ;
     rdfs:range ns1:area .
+
+ns1:reviewAbout a rdf:Property ;
+    rdfs:domain ns1:review ;
+    rdfs:range ns1:Paper .
 
 ns1:shortPaper rdfs:subClassOf ns1:Paper .
 
@@ -59,11 +82,17 @@ ns1:submittedIn a rdf:Property ;
 
 ns1:symposiums rdfs:subClassOf ns1:conference .
 
+ns1:venueName a rdf:Property ;
+    rdfs:domain ns1:venue .
+
 ns1:workshops rdfs:subClassOf ns1:conference .
 
 ns1:wrote a rdf:Property ;
     rdfs:domain ns1:author ;
     rdfs:range ns1:Paper .
+
+ns1:year a rdf:Property ;
+    rdfs:domain ns1:Publication .
 
 ns1:author ns1:wrote ns1:Paper ;
     rdfs:subClassOf ns1:Person .
