@@ -25,8 +25,6 @@ ns1:acceptedfor a rdf:Property ;
 ns1:areaName a rdf:Property ;
     rdfs:domain ns1:area .
 
-ns1:chair rdfs:subClassOf ns1:Person .
-
 ns1:comments a rdf:Property ;
     rdfs:domain ns1:review .
 
@@ -37,13 +35,17 @@ ns1:decision a rdf:Property ;
 
 ns1:demoPaper rdfs:subClassOf ns1:Paper .
 
-ns1:editor rdfs:subClassOf ns1:Person .
-
 ns1:expertGroups rdfs:subClassOf ns1:conference .
 
 ns1:fullPaper rdfs:subClassOf ns1:Paper .
 
-ns1:journal rdfs:subClassOf ns1:venue .
+ns1:handledByC a rdf:Property ;
+    rdfs:domain ns1:conference ;
+    rdfs:range ns1:chair .
+
+ns1:handledByE a rdf:Property ;
+    rdfs:domain ns1:journal ;
+    rdfs:range ns1:editor .
 
 ns1:ml rdfs:subClassOf ns1:area .
 
@@ -96,6 +98,12 @@ ns1:year a rdf:Property ;
 
 ns1:author ns1:wrote ns1:Paper ;
     rdfs:subClassOf ns1:Person .
+
+ns1:chair rdfs:subClassOf ns1:Person .
+
+ns1:editor rdfs:subClassOf ns1:Person .
+
+ns1:journal rdfs:subClassOf ns1:venue .
 
 ns1:reviewer ns1:submitted ns1:review ;
     rdfs:subClassOf ns1:Person .
