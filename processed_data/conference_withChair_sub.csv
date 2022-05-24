@@ -1,0 +1,305 @@
+ID,name,Type,Conferencetype,chairID
+1,Advances in Intelligent Systems and Computing,Conference Paper,workshops,6506311950
+2,Lecture Notes in Electrical Engineering,Conference Paper,workshops,57194162490
+5,Telematics and Informatics,Conference Paper,workshops,7006631262
+6,Electric Power Systems Research,Conference Paper,workshops,7406552522
+7,Optical Fiber Technology,Conference Paper,workshops,57192893058
+8,Computers and Graphics (Pergamon),Conference Paper,workshops,56315352000
+10,Nanotechnology,Conference Paper,workshops,23983490300
+13,IEEE Robotics and Automation Letters,Conference Paper,workshops,57193016069
+14,Computer Methods in Applied Mechanics and Engineering,Conference Paper,workshops,57193015157
+15,IEEE Vehicular Technology Magazine,Conference Paper,workshops,57021948900
+17,Production and Operations Management,Conference Paper,workshops,57197730899
+18,Applied Thermal Engineering,Conference Paper,workshops,57193430035
+19,JOM,Conference Paper,workshops,24081319400
+20,Midwest Symposium on Circuits and Systems,Conference Paper,workshops,57193433048
+21,"Proceedings - 2020 IEEE 21st International Conference on Information Reuse and Integration for Data Science, IRI 2020",Conference Paper,workshops,57195595627
+22,Scripta Materialia,Conference Paper,workshops,57193362917
+23,IEEE Transactions on Aerospace and Electronic Systems,Conference Paper,workshops,54911216200
+26,Quality Engineering,Conference Paper,workshops,57194162490
+31,Mechanism and Machine Theory,Conference Paper,workshops,7102503611
+32,Proceedings of the American Control Conference,Conference Paper,workshops,57197797367
+33,IEEE Transactions on Nuclear Science,Conference Paper,workshops,56453304300
+34,"IET Generation, Transmission and Distribution",Conference Paper,workshops,57208710317
+35,Quality and Reliability Engineering International,Conference Paper,workshops,6507586174
+38,Materials Science and Engineering A,Conference Paper,workshops,36167063600
+39,Footwear Science,Conference Paper,workshops,57193015007
+40,Advanced Materials Interfaces,Conference Paper,workshops,57200860487
+41,Conference Proceedings - Lasers and Electro-Optics Society Annual Meeting-LEOS,Conference Paper,workshops,57208707588
+43,Additive Manufacturing,Conference Paper,workshops,57196000820
+44,Nano Research,Conference Paper,workshops,57190261034
+45,"Proceedings - 2020 IEEE 34th International Parallel and Distributed Processing Symposium Workshops, IPDPSW 2020",Conference Paper,workshops,57196275913
+47,Electronics (Switzerland),Conference Paper,workshops,7006420570
+48,Energies,Conference Paper,workshops,55726346900
+49,ACS Applied Bio Materials,Conference Paper,workshops,57217339723
+50,SAE Technical Papers,Conference Paper,workshops,57203230997
+51,IEEE International Reliability Physics Symposium Proceedings,Conference Paper,workshops,57193016069
+52,Micromachines,Conference Paper,workshops,57192961253
+53,IEEE Antennas and Propagation Magazine,Conference Paper,workshops,55764744500
+54,Physical Review Fluids,Conference Paper,workshops,55726346900
+56,ACS Applied Energy Materials,Conference Paper,workshops,57208710317
+57,Drones,Conference Paper,workshops,57170532300
+58,Applied Energy,Conference Paper,workshops,57196086109
+59,Proceedings of the Custom Integrated Circuits Conference,Conference Paper,workshops,54899597300
+61,"Sensors and Actuators, A: Physical",Conference Paper,workshops,57021948900
+63,Computational Materials Science,Conference Paper,workshops,57198431633
+68,Microporous and Mesoporous Materials,Conference Paper,workshops,6603945025
+69,ISA Transactions,Conference Paper,workshops,37098602100
+71,Nature Biotechnology,Conference Paper,workshops,36675881600
+72,Electronics Letters,Conference Paper,workshops,7006420570
+75,AIAA Scitech 2020 Forum,Conference Paper,workshops,7006440923
+76,Mechanisms and Machine Science,Conference Paper,workshops,57201212051
+78,Computing in Science and Engineering,Conference Paper,workshops,57195962821
+79,Proceedings - Annual Reliability and Maintainability Symposium,Conference Paper,workshops,55949256500
+80,Computer-Aided Design and Applications,Conference Paper,workshops,7006715937
+81,NDT and E International,Conference Paper,workshops,56424241200
+83,Transportation Research Record,Conference Paper,workshops,56875089300
+86,Fluids,Conference Paper,workshops,57192816311
+87,IEEE Antennas and Wireless Propagation Letters,Conference Paper,workshops,57196277369
+89,IEEE Access,Conference Paper,workshops,55544941800
+90,Applied Mechanics Reviews,Conference Paper,workshops,57193429691
+92,Conference Proceedings of the Society for Experimental Mechanics Series,Conference Paper,workshops,57188688103
+93,IEEE Transactions on Circuits and Systems I: Regular Papers,Conference Paper,workshops,36167063600
+94,Proceedings of SPIE - The International Society for Optical Engineering,Conference Paper,workshops,57195600276
+95,Geotechnical Special Publication,Conference Paper,workshops,57194697486
+97,IEEE Aerospace and Electronic Systems Magazine,Conference Paper,workshops,6603383055
+98,Archive for Rational Mechanics and Analysis,Conference Paper,workshops,57192156100
+99,Synthetic and Systems Biotechnology,Conference Paper,workshops,57195976340
+101,"Proceedings - 18th IEEE International Conference on Machine Learning and Applications, ICMLA 2019",Conference Paper,workshops,7006085792
+102,"2019 IEEE Global Communications Conference, GLOBECOM 2019 - Proceedings",Conference Paper,workshops,6603625990
+103,npj Computational Materials,Conference Paper,workshops,56453304300
+104,"DATA 2019 - Proceedings of the 2nd ACM Workshop on Data Acquisition To Analysis, Part of SenSys 2019",Conference Paper,workshops,36167063600
+105,IEEE Transactions on Antennas and Propagation,Conference Paper,workshops,7103065698
+106,Indoor Air,Conference Paper,workshops,57196277369
+107,Proceedings - IEEE Military Communications Conference MILCOM,Conference Paper,workshops,57201212051
+108,IEEE Security and Privacy,Conference Paper,workshops,14035040300
+109,IEEE Transactions on Automatic Control,Conference Paper,workshops,7103269626
+110,Signal Processing: Image Communication,Conference Paper,workshops,9236660300
+111,Smart Materials and Structures,Conference Paper,symposiums,56810920600
+113,"Conference Proceedings - IEEE International Conference on Systems, Man and Cybernetics",Conference Paper,symposiums,6701387944
+114,"Proceedings of the 19th Conference on Formal Methods in Computer-Aided Design, FMCAD 2019",Conference Paper,symposiums,57192595504
+116,"51st North American Power Symposium, NAPS 2019",Conference Paper,symposiums,7404062227
+117,Soil Dynamics and Earthquake Engineering,Conference Paper,symposiums,57198919773
+118,Flexible and Printed Electronics,Conference Paper,symposiums,18038642000
+119,"ACM-BCB 2019 - Proceedings of the 10th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics",Conference Paper,symposiums,57189351639
+120,"International Conference on Infrared, Millimeter, and Terahertz Waves, IRMMW-THz",Conference Paper,symposiums,57188688103
+121,Optical Engineering,Conference Paper,symposiums,9741422500
+122,"2019 IEEE Photonics Conference, IPC 2019 - Proceedings",Conference Paper,symposiums,6507586174
+124,IEEE Solid-State Circuits Letters,Conference Paper,symposiums,57208709468
+125,"IEEE International Conference on Emerging Technologies and Factory Automation, ETFA",Conference Paper,symposiums,7006001488
+127,Applied Optics,Conference Paper,symposiums,7202910012
+128,"Sensors and Actuators, B: Chemical",Conference Paper,symposiums,57196086109
+129,IEEE Transactions on Information Forensics and Security,Conference Paper,symposiums,57196086109
+130,Materials and Design,Conference Paper,symposiums,55665625900
+131,Composite Structures,Conference Paper,symposiums,7005251917
+132,Research in Engineering Design,Conference Paper,symposiums,56492379200
+133,IEEE Radiation Effects Data Workshop,Conference Paper,symposiums,54399816500
+134,"Proceedings - 2019 IEEE Space Computing Conference, SCC 2019",Conference Paper,symposiums,57208710317
+135,IEEE International Professional Communication Conference,Conference Paper,symposiums,57195962037
+137,Materials Characterization,Conference Paper,symposiums,57200860487
+138,IEEE Transactions on Geoscience and Remote Sensing,Conference Paper,symposiums,55544941800
+140,OSA Continuum,Conference Paper,symposiums,57195596864
+141,Metallurgical and Materials Transactions A: Physical Metallurgy and Materials Science,Conference Paper,symposiums,7004450337
+142,"ASEE Annual Conference and Exposition, Conference Proceedings",Conference Paper,symposiums,57195962037
+143,Sensors (Switzerland),Conference Paper,symposiums,57192964074
+144,Mechanical Engineering,Conference Paper,symposiums,6506645565
+146,"2019 International Conference on Unmanned Aircraft Systems, ICUAS 2019",Conference Paper,symposiums,6701774874
+147,"Proceedings - 4th IEEE European Symposium on Security and Privacy Workshops, EUROS and PW 2019",Conference Paper,symposiums,7006420570
+148,IEEE Transactions on Professional Communication,Conference Paper,symposiums,57190252027
+149,Optimization and Engineering,Conference Paper,symposiums,54399816500
+150,"2019 IEEE Milan PowerTech, PowerTech 2019",Conference Paper,symposiums,57196086981
+152,"IEEE Transactions on Components, Packaging and Manufacturing Technology",Conference Paper,symposiums,56762988100
+153,Composites Part A: Applied Science and Manufacturing,Conference Paper,symposiums,56875089300
+155,IEEE International Conference on Communications,Conference Paper,symposiums,55258864700
+156,Design Studies,Conference Paper,symposiums,55674595800
+157,"2019 Conference on Lasers and Electro-Optics, CLEO 2019 - Proceedings",Conference Paper,symposiums,7006440923
+158,Osteoarthritis and Cartilage,Conference Paper,symposiums,57192660307
+159,Multimedia Tools and Applications,Conference Paper,symposiums,7401764127
+160,Precision Engineering,Conference Paper,symposiums,36536647200
+161,Magnetic Resonance Imaging,Conference Paper,symposiums,57208706948
+162,Analytical Methods,Conference Paper,symposiums,6506645565
+164,ACM Transactions on Privacy and Security,Conference Paper,symposiums,57217339723
+168,IEEE Vehicular Technology Conference,Conference Paper,symposiums,57192307368
+169,Construction and Building Materials,Conference Paper,symposiums,10040303000
+170,"Proceedings of 11th International Conference on Bioinformatics and Computational Biology, BiCOB 2019",Conference Paper,symposiums,57191256797
+173,Nano Energy,Conference Paper,symposiums,7401970125
+174,Nano Futures,Conference Paper,symposiums,57193015157
+175,FPGA 2019 - Proceedings of the 2019 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays,Conference Paper,symposiums,9741422500
+177,IEEE/ASME Transactions on Mechatronics,Conference Paper,symposiums,57190806425
+178,Automatica,Conference Paper,symposiums,55859152500
+179,"Proceedings of the 2019 Research on Equity and Sustained Participation in Engineering, Computing, and Technology, RESPECT 2019",Conference Paper,symposiums,57198431633
+181,IEEE Transactions on Circuits and Systems II: Express Briefs,Conference Paper,symposiums,57208710317
+182,Proceedings of the IEEE Conference on Decision and Control,Conference Paper,symposiums,57190806425
+183,"Proceedings - 17th IEEE International Conference on Machine Learning and Applications, ICMLA 2018",Conference Paper,symposiums,57193008289
+184,Applied Sciences (Switzerland),Conference Paper,symposiums,6701774874
+185,Mechanical Sciences,Conference Paper,symposiums,9745660700
+186,"2018 North American Power Symposium, NAPS 2018",Conference Paper,symposiums,6701695863
+187,Product Development: Principles and Tools for Creating Desirable and Transferable Designs,Conference Paper,symposiums,56315352000
+188,AIAA Scitech 2019 Forum,Conference Paper,symposiums,7406552522
+189,"ASME International Mechanical Engineering Congress and Exposition, Proceedings (IMECE)",Conference Paper,symposiums,9741422500
+191,"Proceedings of the 21st International Conference on Engineering and Product Design Education: Towards a New Innovation Landscape, E and PDE 2019",Conference Paper,symposiums,7103269626
+192,Optics InfoBase Conference Papers,Conference Paper,symposiums,57196088013
+193,"Proceedings of the International Conference on Engineering Design, ICED",Conference Paper,symposiums,35182844400
+194,"Proceedings of the International Joint Conference on Autonomous Agents and Multiagent Systems, AAMAS",Conference Paper,symposiums,36536647200
+195,"American Society of Mechanical Engineers, Power Division (Publication) POWER",Conference Paper,symposiums,57194638369
+196,"Proceedings of the 15th Symposium on Usable Privacy and Security, SOUPS 2019",Conference Paper,symposiums,57193845336
+197,"Proceedings of the 13th Symposium on Usable Privacy and Security, SOUPS 2017",Conference Paper,symposiums,55910450300
+198,International Conference on Transportation and Development 2019: Smarter and Safer Mobility and Cities - Selected Papers from the International Conference on Transportation and Development 2019,Conference Paper,symposiums,57194141209
+199,"Proceedings of the 14th Symposium on Usable Privacy and Security, SOUPS 2018",Conference Paper,symposiums,55456759700
+200,Medical Engineering and Physics,Conference Paper,symposiums,55672496100
+201,Proceedings of the International Telemetering Conference,Conference Paper,symposiums,57194638369
+202,CAMX 2019 - Composites and Advanced Materials Expo,Conference Paper,symposiums,55078951500
+203,Proceedings of the ASME Design Engineering Technical Conference,Conference Paper,symposiums,57202194800
+204,"Minerals, Metals and Materials Series",Conference Paper,symposiums,13605498800
+206,Proceedings of the Combustion Institute,Conference Paper,expertGroups,56424241200
+207,Biomicrofluidics,Conference Paper,expertGroups,8517650500
+208,Proceedings of the ASME Turbo Expo,Conference Paper,expertGroups,7005836251
+209,IFAC-PapersOnLine,Conference Paper,expertGroups,24081319400
+210,RILEM Bookseries,Conference Paper,expertGroups,57192893058
+211,IEEE Transactions on Control Systems Technology,Conference Paper,expertGroups,57190252027
+212,"11th International Symposium on Turbulence and Shear Flow Phenomena, TSFP 2019",Conference Paper,expertGroups,7006420570
+213,"SEFI 47th Annual Conference: Varietas Delectat... Complexity is the New Normality, Proceedings",Conference Paper,expertGroups,57194141209
+215,SOUPS 2016 - 12th Symposium on Usable Privacy and Security,Conference Paper,expertGroups,57192156100
+216,Advances in Heat Transfer,Conference Paper,expertGroups,6603945025
+217,"Computing and Systems Technology Division 2019, Held at the 2019 AIChE Spring Meeting and 15th Global Congress on Process Safety",Conference Paper,expertGroups,56762988100
+218,Frontiers in Heat and Mass Transfer,Conference Paper,expertGroups,57193533805
+219,Design Science,Conference Paper,expertGroups,57170532300
+221,Nanoscale Advances,Conference Paper,expertGroups,10040303000
+222,"27th Annual Conference of the International Group for Lean Construction, IGLC 2019",Conference Paper,expertGroups,57214010282
+223,"ASME 2019 Dynamic Systems and Control Conference, DSCC 2019",Conference Paper,expertGroups,57200860487
+224,"25th AIAA/CEAS Aeroacoustics Conference, 2019",Conference Paper,expertGroups,7103321645
+227,IEEE Transactions on Power Systems,Conference Paper,expertGroups,57192959498
+228,Cartilage,Conference Paper,expertGroups,8517650500
+229,Science Robotics,Conference Paper,expertGroups,56762988100
+232,Masonry International,Conference Paper,expertGroups,57196277369
+233,Mechanics Based Design of Structures and Machines,Conference Paper,expertGroups,6701752452
+234,Proceedings of the International ISCRAM Conference,Conference Paper,expertGroups,7202910012
+236,Frontiers in Marine Science,Conference Paper,expertGroups,55832864500
+237,Proceedings of the International Symposium on Radiative Transfer,Conference Paper,expertGroups,24831334500
+238,"SPE/IADC Drilling Conference, Proceedings",Conference Paper,expertGroups,14035040300
+239,Advances in Space Research,Conference Paper,expertGroups,7006631262
+240,IEEE Power and Energy Society General Meeting,Conference Paper,expertGroups,55078951500
+241,"2018 IEEE Nuclear and Space Radiation Effects Conference, NSREC 2018",Conference Paper,expertGroups,24465414600
+242,"Proceedings - 2018 IEEE PES Innovative Smart Grid Technologies Conference Europe, ISGT-Europe 2018",Conference Paper,expertGroups,37098602100
+243,Lab on a Chip,Conference Paper,expertGroups,9741422500
+245,Tissue Engineering - Part B: Reviews,Conference Paper,expertGroups,55547115089
+247,Theoretical and Computational Fluid Dynamics,Conference Paper,expertGroups,35186389400
+248,Experimental Thermal and Fluid Science,Conference Paper,expertGroups,7005666650
+249,Finite Fields and their Applications,Conference Paper,expertGroups,55726346900
+252,"Proceedings - 2018 International Conference on High Performance Computing and Simulation, HPCS 2018",Conference Paper,expertGroups,57191031931
+253,"2018 IEEE 3rd International Verification and Security Workshop, IVSW 2018",Conference Paper,expertGroups,55550264900
+255,Engineering Structures,Conference Paper,expertGroups,35186389400
+256,Biosensors and Bioelectronics,Conference Paper,expertGroups,56875349800
+257,Proceedings of the International Symposium on Wireless Communication Systems,Conference Paper,expertGroups,7006440923
+259,Current Opinion in Biotechnology,Conference Paper,expertGroups,36536647200
+261,Applied Nanoscience (Switzerland),Conference Paper,expertGroups,57195961251
+262,Biomedical Materials (Bristol),Conference Paper,expertGroups,6508147112
+264,Diamond and Related Materials,Conference Paper,expertGroups,57193845336
+265,Biomimetics,Conference Paper,expertGroups,55981276700
+266,"2018 International Conference on Unmanned Aircraft Systems, ICUAS 2018",Conference Paper,expertGroups,36011148100
+267,"2018 International Conference on Reconfigurable Mechanisms and Robots, ReMAR 2018 - Proceedings",Conference Paper,expertGroups,26323686000
+268,"ACM-BCB 2018 - Proceedings of the 2018 ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics",Conference Paper,expertGroups,6701695863
+269,IEEE Photonics Technology Letters,Conference Paper,expertGroups,6603077820
+270,"Proceedings - 2018 IEEE 19th International Conference on Information Reuse and Integration for Data Science, IRI 2018",Conference Paper,expertGroups,7401764127
+271,IEEE Control Systems,Conference Paper,expertGroups,35182844400
+272,Proceedings - IEEE Symposium on Security and Privacy,Conference Paper,expertGroups,57197710678
+273,Handbook of Thermal Science and Engineering,Conference Paper,expertGroups,8717447000
+274,Research Technology Management,Conference Paper,expertGroups,36106810300
+275,"Learning, Media and Technology",Conference Paper,expertGroups,7006715937
+278,IOP Conference Series: Materials Science and Engineering,Conference Paper,expertGroups,7006440923
+279,"2018 IEEE/ION Position, Location and Navigation Symposium, PLANS 2018 - Proceedings",Conference Paper,expertGroups,57192307368
+281,Optics and Photonics News,Conference Paper,expertGroups,55550262000
+282,"12th Annual IEEE International Systems Conference, SysCon 2018 - Proceedings",Conference Paper,expertGroups,7402004420
+283,Proceedings - International Symposium on Biomedical Imaging,Conference Paper,expertGroups,57193431261
+284,"Noise Reduction: Methods, Applications and Technology",Conference Paper,expertGroups,57190806425
+285,ACS Biomaterials Science and Engineering,Conference Paper,expertGroups,57195995765
+288,Industrial and Engineering Chemistry Research,Conference Paper,expertGroups,54410814200
+289,"Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences",Conference Paper,expertGroups,57195995765
+291,Accident Analysis and Prevention,Conference Paper,expertGroups,7101816438
+292,"Proceedings - 9th International Conference on Computational Intelligence and Communication Networks, CICN 2017",Conference Paper,expertGroups,36536647200
+293,"2017 8th International Conference on Information, Intelligence, Systems and Applications, IISA 2017",Conference Paper,expertGroups,7102503611
+294,Mechanics of Materials,Conference Paper,expertGroups,56716068400
+296,ACM/IEEE International Conference on Human-Robot Interaction,Conference Paper,expertGroups,56492379200
+297,Lowland Technology International,Conference Paper,expertGroups,57193845336
+298,ACS Synthetic Biology,Conference Paper,expertGroups,14057706900
+299,FPGA 2018 - Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays,Conference Paper,expertGroups,57196000820
+300,IEEE Reviews in Biomedical Engineering,Conference Paper,expertGroups,6508147112
+301,"2017 IEEE 56th Annual Conference on Decision and Control, CDC 2017",Conference Paper,expertGroups,7101816438
+302,IET Conference Publications,Conference Paper,expertGroups,57208707588
+303,2018 Applied Aerodynamics Conference,Conference Paper,expertGroups,6603077820
+304,Construction Research Congress 2018: Infrastructure and Facility Management - Selected Papers from the Construction Research Congress 2018,Conference Paper,regularConferences,57190252027
+305,"AIAA/ASCE/AHS/ASC Structures, Structural Dynamics, and Materials Conference, 2018",Conference Paper,regularConferences,56716068400
+306,"AIAA Aerospace Sciences Meeting, 2018",Conference Paper,regularConferences,55249877500
+307,Proceedings of the 27th USENIX Security Symposium,Conference Paper,regularConferences,55949256500
+308,"2018 Solid-State Sensors, Actuators and Microsystems Workshop, Hilton Head 2018",Conference Paper,regularConferences,55456759700
+309,"26th International Congress on Large Dams, 2018",Conference Paper,regularConferences,6701774874
+310,Transactions of the American Nuclear Society,Conference Paper,regularConferences,57195961251
+311,"Proceedings of the 20th International Conference on Engineering and Product Design Education, E and PDE 2018",Conference Paper,regularConferences,55665625900
+313,"2018 Aviation Technology, Integration, and Operations Conference",Conference Paper,regularConferences,6701695863
+314,International Conference on Transportation and Development 2018: Traffic and Freight Operations and Rail and Public Transit - Selected Papers from the International Conference on Transportation and Development 2018,Conference Paper,regularConferences,7006085792
+315,International Heat Transfer Conference,Conference Paper,regularConferences,55910450300
+317,"2018 ASDSO - Dam Safety, Conference Proceedings",Conference Paper,regularConferences,23060352300
+318,Proceedings of the International Masonry Society Conferences,Conference Paper,regularConferences,14057706900
+320,33rd Technical Conference of the American Society for Composites 2018,Conference Paper,regularConferences,57196096093
+321,Pacific Symposium on Biocomputing,Conference Paper,regularConferences,7401970125
+322,"Wind Energy Symposium, 2018",Conference Paper,regularConferences,55910450300
+323,Nonlinear Ultrasonic and Vibro-Acoustical Techniques for Nondestructive Evaluation,Conference Paper,regularConferences,7401969039
+324,"2018 Spring Technical Meeting of the Western States Section of the Combustion Institute, WSSCI 2018",Conference Paper,regularConferences,7005371369
+325,2018 AIAA/CEAS Aeroacoustics Conference,Conference Paper,regularConferences,57195598039
+326,Proceedings of the International Conference on Offshore Mechanics and Arctic Engineering - OMAE,Conference Paper,regularConferences,56315352000
+327,"2018 Joint Rail Conference, JRC 2018",Conference Paper,regularConferences,57211422454
+328,"AIAA Modeling and Simulation Technologies Conference, 2018",Conference Paper,regularConferences,40561545600
+329,"Pipelines 2018: Utility Engineering, Surveying, and Multidisciplinary Topics - Proceedings of Sessions of the Pipelines 2018 Conference",Conference Paper,regularConferences,36044041500
+330,Environmental Division 2018 - Core Programming Area at the 2018 AIChE Annual Meeting,Conference Paper,regularConferences,57195962821
+331,"Pipelines 2018: Condition Assessment, Construction, and Rehabilitation - Proceedings of Sessions of the Pipelines 2018 Conference",Conference Paper,regularConferences,57191256797
+332,Space Safety and Human Performance,Conference Paper,regularConferences,57195964763
+334,Geological Society Special Publication,Conference Paper,regularConferences,56424241200
+335,"Proceedings - IEEE International Conference on Data Mining, ICDM",Conference Paper,regularConferences,55547115089
+336,IEEE International Conference on Intelligent Robots and Systems,Conference Paper,regularConferences,57217339723
+337,Annals of Biomedical Engineering,Conference Paper,regularConferences,55078951500
+338,IEEE/ACM Transactions on Audio Speech and Language Processing,Conference Paper,regularConferences,6507586174
+342,"Proceedings - 2017 IEEE Cybersecurity Development Conference, SecDev 2017",Conference Paper,regularConferences,35182844400
+343,Bioconjugate Chemistry,Conference Paper,regularConferences,57195995765
+344,"1st Annual IEEE Conference on Control Technology and Applications, CCTA 2017",Conference Paper,regularConferences,57140193000
+345,IEEE MTT-S International Microwave Symposium Digest,Conference Paper,regularConferences,57201212051
+348,IEEE Transactions on Learning Technologies,Conference Paper,regularConferences,55078951500
+354,IEEE International Conference on Rehabilitation Robotics,Conference Paper,regularConferences,36167063600
+356,"2017 International Conference on Unmanned Aircraft Systems, ICUAS 2017",Conference Paper,regularConferences,26323686000
+357,Proceedings - IEEE International Conference on Robotics and Automation,Conference Paper,regularConferences,57197797367
+358,"2017 17th European Conference on Radiation and Its Effects on Components and Systems, RADECS 2017",Conference Paper,regularConferences,7406552522
+360,"Proceedings - 2017 IEEE 17th International Conference on Bioinformatics and Bioengineering, BIBE 2017",Conference Paper,regularConferences,26644144000
+362,Building Simulation,Conference Paper,regularConferences,6506645565
+363,"11th Annual IEEE International Systems Conference, SysCon 2017 - Proceedings",Conference Paper,regularConferences,7005666650
+364,Fire Technology,Conference Paper,regularConferences,57201212051
+365,Biomaterials,Conference Paper,regularConferences,57194638369
+371,Risk Analysis,Conference Paper,regularConferences,57195962821
+372,Experiments in Fluids,Conference Paper,regularConferences,57217654846
+373,Superconductor Science and Technology,Conference Paper,regularConferences,57192941583
+374,Structural and Multidisciplinary Optimization,Conference Paper,regularConferences,24335536400
+376,"2016 IEEE Photonics Conference, IPC 2016",Conference Paper,regularConferences,57195420301
+377,"AIAA Information Systems-AIAA Infotech at Aerospace, 2017",Conference Paper,regularConferences,57193845336
+378,ICCM International Conferences on Composite Materials,Conference Paper,regularConferences,7004450337
+379,Proceedings of the 26th USENIX Security Symposium,Conference Paper,regularConferences,57203234366
+380,"30th International Technical Meeting of the Satellite Division of the Institute of Navigation, ION GNSS 2017",Conference Paper,regularConferences,57214010282
+381,"Proceedings of the 19th International Conference on Engineering and Product Design Education: Building Community: Design Education for a Sustainable Future, E and PDE 2017",Conference Paper,regularConferences,57196277369
+382,IEEE Geoscience and Remote Sensing Letters,Conference Paper,regularConferences,55376424100
+383,10th U.S. National Combustion Meeting,Conference Paper,regularConferences,57200248178
+385,CAMX 2017 - Composites and Advanced Materials Expo,Conference Paper,regularConferences,23060352300
+386,"2017 Fall Technical Meeting of the Western States Section of the Combustion Institute, WSSCI 2017",Conference Paper,regularConferences,57192660307
+387,Computing and Systems Technology Division 2017 - Core Programming Area at the 2017 AIChE Spring Meeting and 13th Global Congress on Process Safety,Conference Paper,regularConferences,54399816500
+388,SpringerBriefs in Applied Sciences and Technology,Conference Paper,regularConferences,56762988100
+389,AAAI Workshop - Technical Report,Conference Paper,regularConferences,37098602100
+390,IGLC 2017 - Proceedings of the 25th Annual Conference of the International Group for Lean Construction,Conference Paper,regularConferences,6507586174
+391,"Carbon Management Technology Conference, CMTC 2017: Global CCUS Innovation Nexus",Conference Paper,regularConferences,57201121062
+392,"35th Wind Energy Symposium, 2017",Conference Paper,regularConferences,55764744500
+393,Energy,Conference Paper,regularConferences,57198919773
+394,Polyploidy and Hybridization for Crop Improvement,Conference Paper,regularConferences,7006001488
+396,Society of Petroleum Engineers - SPE Bergen One Day Seminar 2017,Conference Paper,regularConferences,57193362917
+397,Nanophotonics,Conference Paper,regularConferences,7006715937
+398,"23rd AIAA/CEAS Aeroacoustics Conference, 2017",Conference Paper,regularConferences,57195596864
+399,AIAA SciTech Forum - 55th AIAA Aerospace Sciences Meeting,Conference Paper,regularConferences,57191256797
+400,CAD Computer Aided Design,Conference Paper,regularConferences,6701695863
+401,International Symposium on Advances in Computational Heat Transfer,Conference Paper,regularConferences,54399816500
+402,"AIAA SPACE and Astronautics Forum and Exposition, SPACE 2017",Conference Paper,regularConferences,57197800472
+403,IEEE Transactions on Control of Network Systems,Conference Paper,regularConferences,7005371369
+404,Innovations in Dryland Agriculture,Conference Paper,regularConferences,56424241200
