@@ -1,4 +1,0 @@
-@prefix foaf: <http://xmlns.com/foaf/0.1/> .
-
-<http://example222Db.org/bob> foaf:name <http://example222Db.org/name> .
-
